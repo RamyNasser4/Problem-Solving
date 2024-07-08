@@ -16,3 +16,6 @@ https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&a
 ## The-Seasonal-War-UVA-352
 https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=288
 
+### Marcus-UVA-10452
+https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=1393
+
