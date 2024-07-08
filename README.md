@@ -42,3 +42,6 @@ My solutions for various problems on problem solving sites like UVA
 
 #### Combinations-UVA-369
 [https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=305](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=305)
+
+#### Pi-UVA-412
+[https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=353](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=353)
