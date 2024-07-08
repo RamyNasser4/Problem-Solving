@@ -7,3 +7,6 @@ https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;pa
 ## Uniform-General-UV-408
 https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=349
 
+## Black-and-white-UVA-11231
+https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=2172
+
