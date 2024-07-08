@@ -36,3 +36,6 @@ My solutions for various problems on problem solving sites like UVA
 
 #### The-Playboy-Chimp-UVA-10611
 [https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)
+
+#### Big-Mod-UVA-374
+[https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=310](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=310)
