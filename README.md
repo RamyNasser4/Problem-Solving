@@ -10,3 +10,6 @@ https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&a
 ## Black-and-white-UVA-11231
 https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=2172
 
+## Electricity-UVA-12148
+https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=3300
+
