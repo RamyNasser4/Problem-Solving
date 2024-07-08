@@ -54,3 +54,6 @@ http://acm.timus.ru/problem.aspx?space=1&num=1607
 
 #### The-Drunk-Jailer-POJ-1218
 http://poj.org/problem?id=1218
+
+#### Knight-Moves-UVA-439
+[https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380)
