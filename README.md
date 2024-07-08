@@ -63,3 +63,6 @@ https://acm.timus.ru/problem.aspx?space=1&amp;num=1638
 
 #### Difference-UVA-10461
 [https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1402](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1402)
+
+#### Continents-UVA-11094
+[https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2035](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2035)
