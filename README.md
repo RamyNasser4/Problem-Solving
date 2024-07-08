@@ -39,3 +39,6 @@ My solutions for various problems on problem solving sites like UVA
 
 #### Big-Mod-UVA-374
 [https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=310](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=310)
+
+#### Combinations-UVA-369
+[https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=305](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=305)
