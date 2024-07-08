@@ -13,3 +13,6 @@ https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&a
 ## Electricity-UVA-12148
 https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=3300
 
+## The-Seasonal-War-UVA-352
+https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=288
+
