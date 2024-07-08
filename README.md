@@ -45,3 +45,6 @@ My solutions for various problems on problem solving sites like UVA
 
 #### Pi-UVA-412
 [https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=353](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=353)
+
+#### Adding-Reversed-Numbers-UVA-713
+[https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=654](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=654)
