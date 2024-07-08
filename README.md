@@ -66,3 +66,6 @@ https://acm.timus.ru/problem.aspx?space=1&amp;num=1638
 
 #### Continents-UVA-11094
 [https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2035](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2035)
+
+#### Brownie-Points-UVA-10865
+[https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1806](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1806)
