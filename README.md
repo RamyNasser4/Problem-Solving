@@ -27,3 +27,6 @@ https://onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;p
 
 #### Points-in-Figures-Rectangles-UVA-476
 https://onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;page=show_problem&amp;problem=417
+
+#### Overlapping-Rectangles-UVA-460
+https://onlinejudge.org/index.php?option=onlinejudge&amp;Itemid=99999999&amp;page=show_problem&amp;category=0&amp;problem=401
