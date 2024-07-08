@@ -4,7 +4,7 @@ My solutions for various problems on problem solving sites like UVA
 #### Product-UVA-10106
 https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;page=show_problem&amp;problem=1047
 
-#### Uniform-General-UV-408
+#### Uniform-General-UVA-408
 https://uva.onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=349
 
 #### Black-and-white-UVA-11231
@@ -24,3 +24,6 @@ https://uva.onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;pa
 
 #### Ordering-Tasks-UVA-10305
 https://onlinejudge.org/index.php?option=onlinejudge&amp;page=show_problem&amp;problem=1246
+
+#### Points-in-Figures-Rectangles-UVA-476
+https://onlinejudge.org/index.php?option=com_onlinejudge&amp;Itemid=8&amp;page=show_problem&amp;problem=417
