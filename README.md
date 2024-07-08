@@ -48,3 +48,6 @@ My solutions for various problems on problem solving sites like UVA
 
 #### Adding-Reversed-Numbers-UVA-713
 [https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=654](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=654)
+
+#### Taxi-Timus-1607
+http://acm.timus.ru/problem.aspx?space=1&num=1607
