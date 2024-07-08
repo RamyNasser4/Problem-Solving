@@ -30,3 +30,6 @@ My solutions for various problems on problem solving sites like UVA
 
 #### Overlapping-Rectangles-UVA-460
 [https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=401](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=401)
+
+#### Fourth-Point--UVA-10242
+[https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1183](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1183)
