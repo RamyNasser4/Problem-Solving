@@ -33,3 +33,6 @@ My solutions for various problems on problem solving sites like UVA
 
 #### Fourth-Point--UVA-10242
 [https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1183](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1183)
+
+#### The-Playboy-Chimp-UVA-10611
+[https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)
