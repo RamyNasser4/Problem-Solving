@@ -72,3 +72,6 @@ https://acm.timus.ru/problem.aspx?space=1&amp;num=1638
 
 #### Hanoi-Tower-Timus-1054
 https://acm.timus.ru/problem.aspx?space=1&num=1054
+
+#### Intersecting-Lines-378
+[https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=314](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=314)
