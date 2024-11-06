@@ -75,3 +75,6 @@ https://acm.timus.ru/problem.aspx?space=1&num=1054
 
 #### Intersecting-Lines-378
 [https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=314](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=5&page=show_problem&problem=314)
+
+#### The-Stem-Brocot-Number-System-10077
+[https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1018](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1018)
